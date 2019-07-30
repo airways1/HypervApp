@@ -3,15 +3,19 @@ This utility is only for merging disk. While merging disk, this app will leave t
 
 # demo
 ### list all virtual machine and choose one to list disk
-![](doc/0000.jpg=120x100)
+
+<img src="doc/0000.jpg" alt="drawing" width="300px"/>
 
 ### list all disk for choosen virtual machine
-![](doc/0001.jpg=120x100)
+
+<img src="doc/0001.jpg" alt="drawing" width="300px"/>
 
 ### list tree structure for choosen hard disk
-![](doc/0002.jpg=120x100)
+<img src="doc/0002.jpg" alt="drawing" width="300px"/>
+
 
 ### merge disk from specified item 
 when button is clicked, disk will be merged from what is specified till the very parent.
-![](doc/0003.jpg=120x100)
+<img src="doc/0003.jpg" alt="drawing" width="300px"/>
+
  
